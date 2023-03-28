@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-Saleh-86
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full-stack course
+- 🌱 I’m currently learning Full-stack courses Self Study
 - 💞️ I’m looking to collaborate on a team have idea or vision to create a full projects
 - 📫 How to reach me => mr.ahmedsaleh.86@gmail.com
 
